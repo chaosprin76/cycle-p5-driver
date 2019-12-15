@@ -2,7 +2,7 @@
   "name": "p5-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "src/sketch.js",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build src/sketch.js"
